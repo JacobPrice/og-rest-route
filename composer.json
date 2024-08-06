@@ -1,0 +1,16 @@
+{
+    "name": "jacobprice/og-rest-route",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Og\\RestRoutes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jacobprice",
+            "email": "jacobprice@protonmail.com"
+        }
+    ],
+    "require": {}
+}
